@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohit Menon
 - 👀 I’m interested in software development, web development, F1, cricket and science
 - 🌱 I’m currently learning machine learning and advanced web development
-- 💞️ I’m looking to collaborate on web development project and software development project
+- 🌳 I’m looking to collaborate on web development project and software development project
 
 
 <!---
